@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="30dp"
+    android:layout_marginEnd="30dp"
+    android:background="@drawable/shape_dialog_version_update_bg"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:text="有新版本啦！"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvVersionName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:textColor="@color/textHintColor"
+        android:textSize="14sp"
+        app:layout_constraintTop_toBottomOf="@+id/tvTitle"
+        tools:text="版本 1.5.2" />
+
+    <TextView
+        android:id="@+id/tvVersionDes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="15dp"
+        android:lineSpacingExtra="3dp"
+        android:textColor="@color/textLightColor"
+        android:textSize="14sp"
+        app:layout_constraintTop_toBottomOf="@+id/tvVersionName"
+        tools:text="修复了新收藏鉴赏按钮的点击问题。\n
+修正了随机角色（机制）能够选择同万圣节饰品冲突之色彩的情况。\n
+为角色所选的“小红＆小蓝（宠物）”游戏后不会再重置了。\n
+修复了携带一张以上小红＆小蓝时，效果不叠加的问题。\n" />
+
+    <ProgressBar
+        android:id="@+id/pbDownLoading"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="15dp"
+        android:max="100"
+        android:progressDrawable="@drawable/shape_dialog_version_update_progress_bg"
+        app:layout_constraintTop_toBottomOf="@+id/tvVersionDes">
+
+    </ProgressBar>
+
+
+    <TextView
+        android:id="@+id/tvBrowser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:text="浏览器下载"
+        android:textColor="@color/textHintColor"
+        android:textSize="11sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/tvUpdate"
+        app:layout_constraintTop_toBottomOf="@+id/pbDownLoading">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/tvUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dp"
+        android:text="立即更新"
+        android:textColor="@color/colorPrimary"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/pbDownLoading">
+
+    </TextView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

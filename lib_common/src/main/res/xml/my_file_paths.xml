@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <external-path
+            name="external_download"
+            path="" />
+        <root-path
+            name="root_download"
+            path="" />
+    </paths>
+
+
+</resources>

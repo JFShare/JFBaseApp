@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/app/src/main/res/layout/activity_main.xml" value="0.3375" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/drawable.xml" value="0.2185" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_album_bg.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_checkbox_selector.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_default_num_selector.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_demo_blue_num_normal.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_demo_blue_num_selected.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_demo_blue_num_selector.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_demo_custom_selector.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_demo_preview_blue_num_selected.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_demo_preview_blue_num_selector.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_demo_preview_grey_oval_normal.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_demo_transparent_bg.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_demo_white_preview_selector.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_image_placeholder.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_preview_checkbox_selector.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_preview_gallery_bg.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_select_complete_bg.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/ps_select_complete_normal_bg.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/shape_dialog_loading_bg.xml" value="0.2185" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/shape_dialog_version_update_bg.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/drawable/shape_dialog_version_update_progress_bg.xml" value="0.2215" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/layout/activity_main.xml" value="0.3375" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/layout/activity_web_view.xml" value="0.3375" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/layout/dialog_laoding.xml" value="0.33" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/layout/dialog_version_update.xml" value="0.3375" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/layout/item_widget_image_recyclerview.xml" value="0.3375" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/layout/loadsir_callback_error.xml" value="0.25" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/layout/loadsir_callback_loading.xml" value="0.3375" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/layout/widget_bottom_bar_tab.xml" value="0.3375" />
+        <entry key="..\:/Android_thirdProgrect/JFBaseApp/lib_common/src/main/res/layout/widget_image_recyclerview.xml" value="0.3375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
